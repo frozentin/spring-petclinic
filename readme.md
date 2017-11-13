@@ -10,7 +10,7 @@
 Clone the repo:
 
 ```
-	git clone https://github.com/savishy/spring-petclinic.git
+	git clone https://github.com/frozentin/spring-petclinic.git
 	cd spring-petclinic
 ```
 This project packages a restributable Maven Wrapper. Maven installation is not required to run this project.
